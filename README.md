@@ -1,7 +1,11 @@
 # Console-Music-Player
 
-the files i uploaded are the contents from the project file vs created(the code source is available also)
-and im sorry if uploaded it incoreectly I'm new to github 
+
+I Only uploaded the source code files because the project files where kinda big
+(and im sorry if that isnt what i should do I'm new to github )
+however if you wanna use this code make sure to create a project and then 
+2 cpp files and 2 headers the same way i created them and use the same names then copy the code into them 
+
 
 Anws about this prject , its just a really simple c++ music player thats shows a menu in the console with 
 option to add a song to either head or tail of the list 
